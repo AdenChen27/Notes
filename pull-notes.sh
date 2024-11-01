@@ -5,5 +5,5 @@ cp /Users/aden/Courses/STAT244/notes.pdf "STAT 24410 - Statistical Theory and Me
 
 git add -u
 git commit -m "updated notes"
-got push
+git push
 
