@@ -10,7 +10,7 @@ cp /Users/aden/Courses/MATH204/notes.pdf "MATH 20410 - Analysis in Rn II (accele
 cp /Users/aden/Courses/STAT245/notes.pdf "STAT 24510 - Statistical Theory and Methods IIa.pdf"
 
 # 2025 Spring
-# cp /Users/aden/Courses/ECON21030/notes.pdf "ECON 21030 - Honors Econometrics I.pdf"
+cp /Users/aden/Courses/ECON21030/notes.pdf "ECON 21030 - Honors Econometrics I.pdf"
 cp /Users/aden/Courses/ECON202/notes.pdf "ECON 20210 - The Elements of Economic Analysis III Honors.pdf"
 cp /Users/aden/Courses/MATH205/notes.pdf "MATH 20510 - Analysis in Rn III (accelerated).pdf"
 
