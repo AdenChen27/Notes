@@ -18,6 +18,10 @@ My LaTeX package can be found [here](https://github.com/AdenChen27/latex).
 - [ECON 20210 - The Elements of Economic Analysis III Honors](https://github.com/AdenChen27/Notes/blob/main/ECON%2020210%20-%20The%20Elements%20of%20Economic%20Analysis%20III%20Honors.pdf)
 - [ECON 21030 - Honors Econometrics](https://github.com/AdenChen27/Notes/blob/main/ECON%2021030%20-%20Honors%20Econometrics%20I.pdf)
 
+## Fall 2025
+- [MATH 23500 - Markov Chains, Martingales, and Brownian Motion](https://github.com/AdenChen27/Notes/blob/main/MATH%2023500%20-%20Markov%20Chains%2C%20Martingales%2C%20and%20Brownian%20Motion.pdf)
+- [MATH 27300 - Basic Theory of Ordinary Differential Equations]( https://github.com/AdenChen27/Notes/blob/main/MATH%2027300%20-%20Basic%20Theory%20of%20Ordinary%20Differential%20Equations.pdf)
+
 
 # Unreadable Notes (beware)
 
