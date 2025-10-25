@@ -14,6 +14,10 @@ cp /Users/aden/Courses/ECON21030/notes.pdf "ECON 21030 - Honors Econometrics I.p
 cp /Users/aden/Courses/ECON202/notes.pdf "ECON 20210 - The Elements of Economic Analysis III Honors.pdf"
 cp /Users/aden/Courses/MATH205/notes.pdf "MATH 20510 - Analysis in Rn III (accelerated).pdf"
 
+# 2025 Fall
+cp /Users/aden/Courses/MATH235/notes.pdf "MATH 23500 - Markov Chains, Martingales, and Brownian Motion.pdf"
+cp /Users/aden/Courses/MATH273/notes.pdf "MATH 27300 - Basic Theory of Ordinary Differential Equations.pdf"
+
 
 git add -u
 git commit -m "updated notes"
