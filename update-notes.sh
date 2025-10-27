@@ -17,6 +17,7 @@ cp /Users/aden/Courses/MATH205/notes.pdf "MATH 20510 - Analysis in Rn III (accel
 # 2025 Fall
 cp /Users/aden/Courses/MATH235/notes.pdf "MATH 23500 - Markov Chains, Martingales, and Brownian Motion.pdf"
 cp /Users/aden/Courses/MATH273/notes.pdf "MATH 27300 - Basic Theory of Ordinary Differential Equations.pdf"
+cp /Users/aden/Courses/ECMA33220/notes.pdf "ECMA 33220 - Introduction to Advanced Macroeconomic Analysis.pdf"
 
 
 git add -u
