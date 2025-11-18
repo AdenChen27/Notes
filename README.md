@@ -1,7 +1,6 @@
 # Notes
 
-My notes taken using LaTeX.
-My LaTeX package can be found [here](https://github.com/AdenChen27/latex).
+<!-- My LaTeX package can be found [here](https://github.com/AdenChen27/latex). -->
 
 <!-- ## Math -->
 <!-- - [MATH 20410 - Analysis in Rn II (accelerated)](https://github.com/AdenChen27/Notes/blob/main/MATH%2020410%20-%20Analysis%20in%20Rn%20II%20(accelerated).pdf) (Winter 2025) -->
