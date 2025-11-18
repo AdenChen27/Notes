@@ -18,7 +18,7 @@ My LaTeX package can be found [here](https://github.com/AdenChen27/latex).
 
 
 ## Economics
-- [ECON 20010 - The Elements of Economic Analysis I Honors (Fall 2024)](https://github.com/AdenChen27/Notes/blob/main/ECON%2020010%20-%20The%20Elements%20of%20Economic%20Analysis%20I%20Honors.pdf)
+- [ECON 20010 - The Elements of Economic Analysis I Honors](https://github.com/AdenChen27/Notes/blob/main/ECON%2020010%20-%20The%20Elements%20of%20Economic%20Analysis%20I%20Honors.pdf) (Fall 2024)
 
 - [ECON 20110 - The Elements of Economic Analysis II Honors](https://github.com/AdenChen27/Notes/blob/main/ECON%2020110%20-%20The%20Elements%20of%20Economic%20Analysis%20II%20Honors.pdf) (Winter 2025; Unreadable, beware)
 
