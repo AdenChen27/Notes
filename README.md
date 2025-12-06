@@ -59,6 +59,8 @@
 
 [^*]: Unreadable, beware.
 
+**CS** = full-course cheatsheet; **MCS** = midterm-specific cheatsheet.
+
 For mistakes or typographical errors in the notes, please email me at `adenc@uchicago.edu`.
 
 
