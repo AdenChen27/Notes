@@ -39,7 +39,7 @@
 | MATH20510  | Analysis in Rn III (accelerated) | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH20510.pdf) | Spring 2025 |
 | MATH23500  | Markov Chains, Martingales, and Brownian Motion | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500-cheatsheet.pdf) | Fall 2025 |
 | MATH26200  | Point-Set Topology | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH26200.pdf) | Fall 2025 (Audit) |
-| MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300.pdf)[^*] [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cheatsheet.pdf) | Fall 2025 |
+| MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300.pdf)[^*] [Cleaned](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cleaned.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cheatsheet.pdf) | Fall 2025 |
 
 
 | Course Code | Course Name | Notes | Term |
