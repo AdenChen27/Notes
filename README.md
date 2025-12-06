@@ -41,6 +41,7 @@
 | MATH26200  | Point-Set Topology | [PDF](https://github.com/AdenChen27/Notes/blob/main/MATH%2026200%20-%20Point-Set%20Topology.pdf) | Fall 2025 (Audit) |
 | MATH27300  | Basic Theory of Ordinary Differential Equations | [PDF](https://github.com/AdenChen27/Notes/blob/main/MATH%2027300%20-%20Basic%20Theory%20of%20Ordinary%20Differential%20Equations.pdf) | Fall 2025 (Unreadable) |
 
+
 | Course Code | Course Name | Notes | Term |
 |-------------|-------------|--------|------|
 | ECON20010  | Elements of Economic Analysis I (Honors) | [PDF](https://github.com/AdenChen27/Notes/blob/main/ECON%2020010%20-%20The%20Elements%20of%20Economic%20Analysis%20I%20Honors.pdf) | Fall 2024 |
@@ -49,6 +50,7 @@
 | ECON21030  | Honors Econometrics | [PDF](https://github.com/AdenChen27/Notes/blob/main/ECON%2021030%20-%20Honors%20Econometrics%20I.pdf) | Spring 2025 |
 | ECMA33220  | Introduction to Advanced Macroeconomic Analysis | [PDF](https://github.com/AdenChen27/Notes/blob/main/ECMA%2033220%20-%20Introduction%20to%20Advanced%20Macroeconomic%20Analysis.pdf) | Fall 2025 |
 
+
 | Course Code | Course Name | Notes | Term |
 |-------------|-------------|--------|------|
 | STAT24410  | Statistical Theory and Methods Ia | [PDF](https://github.com/AdenChen27/Notes/blob/main/STAT%2024410%20-%20Statistical%20Theory%20and%20Methods%20Ia.pdf) | Fall 2024 |
@@ -56,5 +58,6 @@
 
 
 
+For mistakes or typographical errors in the notes, please email me at `adenc@uchicago.edu`.
 
 
