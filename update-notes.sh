@@ -1,5 +1,5 @@
 # pull notes
-cd /Users/aden/Box/PublicNotes/
+cd /Users/aden/Box/PublicNotes/notes/
 # 2024 Fall
 # cp /Users/aden/Courses/ECON200/notes.pdf "ECON 20010 - The Elements of Economic Analysis I Honors.pdf"
 # cp /Users/aden/Courses/STAT244/notes.pdf "STAT 24410 - Statistical Theory and Methods Ia.pdf"
@@ -20,12 +20,13 @@ cd /Users/aden/Box/PublicNotes/
 # cp /Users/aden/Courses/MATH205/notes.pdf "MATH 20510 - Analysis in Rn III (accelerated).pdf"
 
 # 2025 Fall
-cp /Users/aden/Courses/MATH235/notes.pdf "MATH 23500 - Markov Chains, Martingales, and Brownian Motion.pdf"
+cp /Users/aden/Courses/MATH235/notes.pdf "MATH23500.pdf"
 cp /Users/aden/Courses/MATH235/cheatsheet.pdf "MATH23500-cheatsheet.pdf"
-cp /Users/aden/Courses/MATH273/notes.pdf "MATH 27300 - Basic Theory of Ordinary Differential Equations.pdf"
+cp /Users/aden/Courses/MATH273/notes.pdf "MATH27300.pdf"
+cp /Users/aden/Courses/MATH273/notes-cleaned.pdf "MATH27300-cleaned.pdf"
 cp /Users/aden/Courses/MATH273/cheatsheet.pdf "MATH27300-cheatsheet.pdf"
-cp /Users/aden/Courses/ECMA33220/notes.pdf "ECMA 33220 - Introduction to Advanced Macroeconomic Analysis.pdf"
-cp /Users/aden/Courses/MATH262/notes.pdf "MATH 26200 - Point-Set Topology.pdf"
+cp /Users/aden/Courses/ECMA33220/notes.pdf "ECMA33220.pdf"
+cp /Users/aden/Courses/MATH262/notes.pdf "MATH26200.pdf"
 
 
 git add -u
