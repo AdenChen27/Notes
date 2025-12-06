@@ -37,14 +37,14 @@
 |-------------|-------------|--------|------|
 | MATH20410  | Analysis in Rn II (accelerated) | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2020410%20-%20Analysis%20in%20Rn%20II%20(accelerated).pdf) | Winter 2025 |
 | MATH20510  | Analysis in Rn III (accelerated) | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2020410%20-%20Analysis%20in%20Rn%20II%20(accelerated).pdf) | Spring 2025 |
-| MATH23500  | Markov Chains, Martingales, and Brownian Motion | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2023500%20-%20Markov%20Chains%2C%20Martingales%2C%20and%20Brownian%20Motion.pdf) | Fall 2025 |
+| MATH23500  | Markov Chains, Martingales, and Brownian Motion | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2023500%20-%20Markov%20Chains%2C%20Martingales%2C%20and%20Brownian%20Motion.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/MATH23500-cheatsheet.pdf) | Fall 2025 |
 | MATH26200  | Point-Set Topology | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2026200%20-%20Point-Set%20Topology.pdf) | Fall 2025 (Audit) |
-| MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2027300%20-%20Basic%20Theory%20of%20Ordinary%20Differential%20Equations.pdf)[^*] | Fall 2025 |
+| MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/MATH%2027300%20-%20Basic%20Theory%20of%20Ordinary%20Differential%20Equations.pdf)[^*] [CS](https://github.com/AdenChen27/Notes/blob/main/MATH27300-cheatsheet.pdf) | Fall 2025 |
 
 
 | Course Code | Course Name | Notes | Term |
 |-------------|-------------|--------|------|
-| ECON20010  | Elements of Economic Analysis I (Honors) | [Main](https://github.com/AdenChen27/Notes/blob/main/ECON%2020010%20-%20The%20Elements%20of%20Economic%20Analysis%20I%20Honors.pdf) | Fall 2024 |
+| ECON20010  | Elements of Economic Analysis I (Honors) | [Main](https://github.com/AdenChen27/Notes/blob/main/ECON%2020010%20-%20The%20Elements%20of%20Economic%20Analysis%20I%20Honors.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/ECON20110-cheatsheet.pdf) | Fall 2024 |
 | ECON20110  | Elements of Economic Analysis II (Honors) | [Main](https://github.com/AdenChen27/Notes/blob/main/ECON%2020110%20-%20The%20Elements%20of%20Economic%20Analysis%20II%20Honors.pdf)[^*] | Winter 2025 |
 | ECON20210  | Elements of Economic Analysis III (Honors) | [Main](https://github.com/AdenChen27/Notes/blob/main/ECON%2020210%20-%20The%20Elements%20of%20Economic%20Analysis%20III%20Honors.pdf) | Spring 2025 |
 | ECON21030  | Honors Econometrics | [Main](https://github.com/AdenChen27/Notes/blob/main/ECON%2021030%20-%20Honors%20Econometrics%20I.pdf) | Spring 2025 |
