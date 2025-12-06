@@ -1,23 +1,23 @@
 # pull notes
 cd /Users/aden/Box/PublicNotes/notes/
-# 2024 Fall
-cp /Users/aden/Courses/ECON200/notes.pdf "ECON20010.pdf"
-cp /Users/aden/Courses/STAT244/notes.pdf "STAT24410.pdf"
-cp /Users/aden/Courses/STAT244/midterm-cheatsheet.pdf "STAT24410-midterm-cheatsheet.pdf"
-cp /Users/aden/Courses/STAT244/cheatsheet.pdf "STAT24410-cheatsheet.pdf"
-
-# 2025 Winter
-cp /Users/aden/Courses/ECON201/notes.pdf "ECON20110.pdf"
-cp /Users/aden/Courses/ECON201/cheatsheet.pdf "ECON20110-cheatsheet.pdf"
-cp /Users/aden/Courses/MATH204/notes.pdf "MATH20410.pdf"
-cp /Users/aden/Courses/STAT245/notes.pdf "STAT24510.pdf"
-cp /Users/aden/Courses/STAT245/midterm-cheatsheet.pdf "STAT24510-midterm-cheatsheet.pdf"
-cp /Users/aden/Courses/STAT245/cheatsheet.pdf "STAT24510-cheatsheet.pdf"
-
-# 2025 Spring
-cp /Users/aden/Courses/ECON21030/notes.pdf "ECON21030.pdf"
-cp /Users/aden/Courses/ECON202/notes.pdf "ECON20210.pdf"
-cp /Users/aden/Courses/MATH205/notes.pdf "MATH20510.pdf"
+# # 2024 Fall
+# cp /Users/aden/Courses/ECON200/notes.pdf "ECON20010.pdf"
+# cp /Users/aden/Courses/STAT244/notes.pdf "STAT24410.pdf"
+# cp /Users/aden/Courses/STAT244/midterm-cheatsheet.pdf "STAT24410-midterm-cheatsheet.pdf"
+# cp /Users/aden/Courses/STAT244/cheatsheet.pdf "STAT24410-cheatsheet.pdf"
+#
+# # 2025 Winter
+# cp /Users/aden/Courses/ECON201/notes.pdf "ECON20110.pdf"
+# cp /Users/aden/Courses/ECON201/cheatsheet.pdf "ECON20110-cheatsheet.pdf"
+# cp /Users/aden/Courses/MATH204/notes.pdf "MATH20410.pdf"
+# cp /Users/aden/Courses/STAT245/notes.pdf "STAT24510.pdf"
+# cp /Users/aden/Courses/STAT245/midterm-cheatsheet.pdf "STAT24510-midterm-cheatsheet.pdf"
+# cp /Users/aden/Courses/STAT245/cheatsheet.pdf "STAT24510-cheatsheet.pdf"
+#
+# # 2025 Spring
+# cp /Users/aden/Courses/ECON21030/notes.pdf "ECON21030.pdf"
+# cp /Users/aden/Courses/ECON202/notes.pdf "ECON20210.pdf"
+# cp /Users/aden/Courses/MATH205/notes.pdf "MATH20510.pdf"
 
 # 2025 Fall
 cp /Users/aden/Courses/MATH235/notes.pdf "MATH23500.pdf"
