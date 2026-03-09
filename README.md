@@ -38,8 +38,10 @@
 | MATH20410  | Analysis in Rn II (accelerated) | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH20410.pdf) | Winter 2025 |
 | MATH20510  | Analysis in Rn III (accelerated) | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH20510.pdf) | Spring 2025 |
 | MATH23500  | Markov Chains, Martingales, and Brownian Motion | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500-cheatsheet.pdf) | Fall 2025 |
-| MATH26200  | Point-Set Topology | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH26200.pdf) | Fall 2025 (Audit) |
+| MATH26200  | Point-Set Topology | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH26200.pdf) | Fall 2025 (Auditl notes incomplete) |
 | MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300.pdf)[^*] [Cleaned](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cleaned.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cheatsheet.pdf) | Fall 2025 |
+| MATH21200  | Advanced Numerical Analysis | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH21200.pdf)[^*] | Winter 2026 (In Progress) |
+| MATH27000  | Basic Complex Variables | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27000.pdf)[^*] | Winter 2026 (In progress) |
 
 
 | Course Code | Course Name | Notes | Term |
@@ -49,12 +51,15 @@
 | ECON20210  | Elements of Economic Analysis III (Honors) | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECON20210.pdf) | Spring 2025 |
 | ECON21030  | Honors Econometrics | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECON21030.pdf) | Spring 2025 |
 | ECMA33220  | Introduction to Advanced Macroeconomic Analysis | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA33220.pdf) | Fall 2025 |
+| ECMA30800 | Theory of Auctions | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA30800.pdf)[^*] | Winter 2026 (In progress) |
 
 
 | Course Code | Course Name | Notes | Term |
 |-------------|-------------|--------|------|
 | STAT24410  | Statistical Theory and Methods Ia | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410.pdf) [MCS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410-midterm-cheatsheet.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410-cheatsheet.pdf) | Fall 2024 |
 | STAT24510  | Statistical Theory and Methods IIa | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510.pdf)[^*] [MCS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510-midterm-cheatsheet.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510-cheatsheet.pdf) | Winter 2025 |
+| STAT27400 | Nonparametric Inference | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT27400.pdf)[^*] | Winter 2026 (In progress) |
+| STAT38100 | Measure-Theoretic Probability I | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT38100.pdf)[^*] | Winter 2026 (In progress) |
 
 
 [^*]: Unreadable, beware.
