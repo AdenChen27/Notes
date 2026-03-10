@@ -34,6 +34,7 @@ cp /Users/aden/Courses/MATH212/notes.pdf "MATH21200.pdf"
 cp /Users/aden/Courses/STAT274/notes.pdf "MATH27400.pdf"
 cp /Users/aden/Courses/STAT381/notes.pdf "STAT38100.pdf"
 cp /Users/aden/Courses/ECMA308/notes.pdf "ECMA30800.pdf"
+cp /Users/aden/Courses/ECMA308/notes-cleaned.pdf "ECMA30800-cleaned.pdf"
 
 
 git add -u
