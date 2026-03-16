@@ -58,9 +58,10 @@
 |-------------|-------------|--------|------|
 | STAT24410  | Statistical Theory and Methods Ia | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410.pdf) [MCS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410-midterm-cheatsheet.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24410-cheatsheet.pdf) | F24 |
 | STAT24510  | Statistical Theory and Methods IIa | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510.pdf)[^*] [MCS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510-midterm-cheatsheet.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/STAT24510-cheatsheet.pdf) | W25 |
-| STAT27400 | Nonparametric Inference | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT27400.pdf)[^*] | W26 |
 | STAT38100 | Measure-Theoretic Probability I | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT38100.pdf)[^*] | W26 |
 
+
+<!-- | STAT27400 | Nonparametric Inference | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/STAT27400.pdf)[^*] | W26 | -->
 
 [^*]: Unreadable, beware.
 
