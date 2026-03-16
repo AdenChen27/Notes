@@ -40,7 +40,7 @@
 | MATH23500  | Markov Chains, Martingales, and Brownian Motion | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH23500-cheatsheet.pdf) | F25 |
 | MATH26200  | Point-Set Topology | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH26200.pdf) | F25 (Audit; notes incomplete) |
 | MATH27300  | Basic Theory of Ordinary Differential Equations | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300.pdf)[^*] [Cleaned](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cleaned.pdf) [CS](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27300-cheatsheet.pdf) | F25 |
-| MATH21200  | Advanced Numerical Analysis | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH21200.pdf)[^*] | W26 (In Progress) |
+| MATH21200  | Advanced Numerical Analysis | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH21200.pdf)[^*] | W26 |
 | MATH27000  | Basic Complex Variables | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/MATH27000.pdf)[^*] | W26 (Audit; Notes Incomplete) |
 
 
@@ -64,7 +64,7 @@
 
 [^*]: Unreadable, beware.
 
-**CS** = full-course cheatsheet; **MCS** = midterm cheatsheet.
+**CS** = full-course cheatsheet; **MCS** = midterm cheatsheet; **Cleaned** = cleaned up version, sometimes with content removed for readability.
 
 For mistakes or typographical errors in the notes, please email me at `adenc@uchicago.edu`.
 
