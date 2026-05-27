@@ -29,15 +29,18 @@ cd /Users/aden/Box/PublicNotes/notes/
 # cp /Users/aden/Courses/MATH262/notes.pdf "MATH26200.pdf"
 
 # 2026 Winter
-cp /Users/aden/Courses/MATH270/notes.pdf "MATH27000.pdf"
-cp /Users/aden/Courses/MATH212/notes.pdf "MATH21200.pdf"
-cp /Users/aden/Courses/STAT274/notes.pdf "MATH27400.pdf"
-cp /Users/aden/Courses/STAT381/notes.pdf "STAT38100.pdf"
-cp /Users/aden/Courses/ECMA308/notes.pdf "ECMA30800.pdf"
-cp /Users/aden/Courses/ECMA308/notes-cleaned.pdf "ECMA30800-cleaned.pdf"
+# cp /Users/aden/Courses/MATH270/notes.pdf "MATH27000.pdf"
+# cp /Users/aden/Courses/MATH212/notes.pdf "MATH21200.pdf"
+# cp /Users/aden/Courses/STAT274/notes.pdf "MATH27400.pdf"
+# cp /Users/aden/Courses/STAT381/notes.pdf "STAT38100.pdf"
+# cp /Users/aden/Courses/ECMA308/notes.pdf "ECMA30800.pdf"
+# cp /Users/aden/Courses/ECMA308/notes-cleaned.pdf "ECMA30800-cleaned.pdf"
+
+# 2026 Spring
+cp /Users/aden/courses/ECON21031/notes.pdf "ECON21031.pdf"
+cp /Users/aden/courses/ECMA30760/notes.pdf "ECMA30760.pdf"
 
 
 git add -u
 git commit -m "updated notes"
 git push
-

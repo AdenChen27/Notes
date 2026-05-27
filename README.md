@@ -52,6 +52,8 @@
 | ECON21030  | Honors Econometrics | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECON21030.pdf) | S25 |
 | ECMA33220  | Introduction to Advanced Macroeconomic Analysis | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA33220.pdf) | F25 |
 | ECMA30800 | Theory of Auctions | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA30800.pdf)[^*] [Cleaned](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA30800-cleaned.pdf) | W26 |
+| ECON21031 | Econometrics II --- Honors | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECON21031.pdf)[^*] | S26 |
+| ECMA30760 | Introduction to Economic Design | [Main](https://github.com/AdenChen27/Notes/blob/main/notes/ECMA30760.pdf)[^*] | S26 |
 
 
 | Course Code | Course Name | Notes | Term |
@@ -68,5 +70,4 @@
 **CS** = full-course cheatsheet; **MCS** = midterm cheatsheet; **Cleaned** = cleaned up version, sometimes with content removed for readability.
 
 For mistakes or typographical errors in the notes, please email me at `adenc@uchicago.edu`.
-
 
